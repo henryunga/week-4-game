@@ -1,0 +1,79 @@
+body {
+	background-image: url("../images/background.jpg");
+}
+
+h1{
+	background-color: clear;
+	color: white;
+	display:auto;
+	text-align: center;
+	clear: both;
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#wrapper {
+	width: 100%
+	max-width:960px;
+	margin: 0 auto;
+}
+
+#instructions {
+	color: white;
+	display:auto;
+	width: 100%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#guessingNumber {
+	color: white;
+	text-align: left;
+	width: auto;
+	display:auto;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+#scoreboard {
+	color: white;
+	width: auto;
+	text-align: left;
+	display:auto;
+	padding: 10px;
+	margin-top: 20px;
+
+}
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+}
+
+.crystalImage {
+	height: 111px;
+	border: solid 1px #272525;
+	margin-left: 10px
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+#totalScore {
+	margin-bottom: 25px;
+}
+
+#yts {
+	text-align: left;
+	color: white;
+	width: auto;
+	display:auto;
+	padding: 10px;
+	margin-top: 5px;
+}
